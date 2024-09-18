@@ -1,3 +1,6 @@
+## Contributions
+- Contributed to [Reznik lab](https://github.com/reznik-lab/UnitedMet) for UnitedMet project.
+
 # UnitedMet: A Bayesian probabilistic method to predict metabolic phenotypes from transcriptomic data
 This package implements UnitedMet, a Bayesian probabilistic framework jointly modeling metabolomics/isotopologue data and RNA-seq data. Training target RNA-seq dataset with cancer-specific reference datasets with paired metabolics/isotopologue data and transcriptomic data, UnitedMet is capable of imputing whole pool sizes as well as the outcomes of isotope tracing experiments for the target dataset. 
 
